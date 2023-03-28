@@ -2,3 +2,4 @@ Las tecnologias que manejo son:
 
 Html 
 css 
+Bootstrap
